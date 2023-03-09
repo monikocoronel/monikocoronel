@@ -10,6 +10,8 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/monikocoronel/azure-network-protocols)
 - <b>Cyber Security</b>
    - [Nessus: Vulnerability Management](https://github.com/monikocoronel/vulnerability-management)
+   - [SIEM: Azure Sentinel](https://github.com/monikocoronel/siem-azure-sentinel)
+
 
 <h2>🤳Connect with me:</h2>
 
